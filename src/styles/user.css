@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Teko&display=swap');
+
+body {
+	font-family: 'Teko', cursive;
+}
+.card{
+  width: 60%;
+  margin: 5% auto;
+}
+
+.card h2{
+  text-align: left;
+  font-size: 32px;
+  margin: 4px;
+}
+.card p{
+  font-size: 24px;
+  margin: 4px;
+  text-align: left;
+}
+
+.dropShadow {
+  filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));
+}
